@@ -1,7 +1,7 @@
 # Document-Clustering-
 # Titanic Survival Prediction 🚢
 
-This is a beginner-friendly data science project to predict survival on the Titanic using machine learning.
+This is a data science project to predict survival on the Titanic using machine learning.
 
 ## 🧠 Problem Statement
 Build a classification model to predict which passengers survived the Titanic disaster based on features like age, sex, class, etc.
